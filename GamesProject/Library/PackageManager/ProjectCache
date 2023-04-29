@@ -5,7 +5,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638182089015308897
+      ticks: 638183737763823590
     m_Hash: 3034393373
   m_LockFileStatus:
     m_FilePath: C:/Users/kylet/Documents/GitHub/Games-Project/GamesProject/Packages/packages-lock.json
@@ -13,7 +13,7 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638182089183096972
+      ticks: 638183737763893402
     m_Hash: 2839752408
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
@@ -1852,6 +1852,7 @@ m_PackageAssets:
         - 1.6.2
         - 1.6.3
         - 1.6.4
+        - 1.6.5
         - 1.7.0-pre.1
         - 1.7.0-pre.2
         - 1.7.0
@@ -1886,6 +1887,7 @@ m_PackageAssets:
         - 1.6.2
         - 1.6.3
         - 1.6.4
+        - 1.6.5
         - 1.7.0-pre.1
         - 1.7.0-pre.2
         - 1.7.0
