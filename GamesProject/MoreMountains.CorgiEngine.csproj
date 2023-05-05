@@ -50,13 +50,13 @@
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Environment\Ladder.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Managers\MultiplayerLevelManager.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\GUI\HeartsGUI.cs" />
-     <Compile Include="Assets\CorgiEngine\Common\Scripts\Agents\AI\Automation\PathedProjectile.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Items\Coin.cs" />
+     <Compile Include="Assets\CorgiEngine\Common\Scripts\Agents\AI\Automation\PathedProjectile.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Agents\Core\Character.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Environment\TimeZone.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Managers\GameManager.cs" />
-     <Compile Include="Assets\CorgiEngine\Common\Scripts\Agents\AI\Advanced\AIActionSetTransformAsTarget.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Items\InventoryPickableItem.cs" />
+     <Compile Include="Assets\CorgiEngine\Common\Scripts\Agents\AI\Advanced\AIActionSetTransformAsTarget.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Agents\AI\Advanced\AIActionFlyPatrol.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Agents\AI\Advanced\AIDecisionHit.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Environment\AppearDisappear.cs" />
@@ -96,8 +96,8 @@
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Agents\CorgiController\CorgiController.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Environment\MovingPlatformFree.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Agents\AI\Automation\SurfaceCrawler.cs" />
-     <Compile Include="Assets\CorgiEngine\Common\Scripts\Agents\AI\Advanced\AIActionDoNothing.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Agents\AI\Advanced\AIActionJump.cs" />
+     <Compile Include="Assets\CorgiEngine\Common\Scripts\Agents\AI\Advanced\AIActionDoNothing.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Environment\Grip.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Agents\Weapons\WeaponAutoAim.cs" />
      <Compile Include="Assets\CorgiEngine\Demos\RetroAdventure\Scripts\RetroStar.cs" />
@@ -142,8 +142,8 @@
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Environment\AnyHeightOneWayPlatform.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Items\PickableOneUp.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Items\PickableAbility.cs" />
-     <Compile Include="Assets\CorgiEngine\Common\Scripts\Agents\Animations\CharacterAnimationParametersInitializer.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Agents\Damage\TypedDamage.cs" />
+     <Compile Include="Assets\CorgiEngine\Common\Scripts\Agents\Animations\CharacterAnimationParametersInitializer.cs" />
      <Compile Include="Assets\CorgiEngine\Common\ScriptsCinemachine\Camera\CorgiCinemachineZone.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Environment\GrabCarryAndThrowObject.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\GUI\PauseButton.cs" />
@@ -197,10 +197,10 @@
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Agents\AI\Advanced\AIDecisionLineOfSightToTarget.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Agents\CharacterAbilities\CharacterInventory.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Agents\CharacterAbilities\CharacterLadder.cs" />
-     <Compile Include="Assets\CorgiEngine\Common\Scripts\Agents\AI\Advanced\AIActionPatrolWithinBounds.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Agents\CharacterAbilities\CharacterFallDamage.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Sprites\MMSpriteMask.cs" />
      <Compile Include="Assets\CorgiEngine\Demos\SuperHipsterBros\Scripts\SuperHipsterBrosHealth.cs" />
+     <Compile Include="Assets\CorgiEngine\Common\Scripts\Agents\AI\Advanced\AIActionPatrolWithinBounds.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Agents\CharacterAbilities\CharacterStairs.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Agents\Weapons\WeaponIK.cs" />
      <Compile Include="Assets\CorgiEngine\Common\Scripts\Items\PickableAction.cs" />
@@ -549,6 +549,9 @@
  </Reference>
  <Reference Include="DOTween">
  <HintPath>C:/Users/s5259827/Documents/GitHub/Games-Project/GamesProject/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
+ </Reference>
+ <Reference Include="ICSharpCode.NRefactory">
+ <HintPath>C:/Users/s5259827/Documents/GitHub/Games-Project/GamesProject/Library/PackageCache/com.unity.render-pipelines.core@10.8.1/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

@@ -306,6 +306,9 @@
  <Reference Include="DOTween">
  <HintPath>C:/Users/s5259827/Documents/GitHub/Games-Project/GamesProject/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
  </Reference>
+ <Reference Include="ICSharpCode.NRefactory">
+ <HintPath>C:/Users/s5259827/Documents/GitHub/Games-Project/GamesProject/Library/PackageCache/com.unity.render-pipelines.core@10.8.1/Editor/ShaderGenerator/ICSharpCode.NRefactory.dll</HintPath>
+ </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
  </Reference>
